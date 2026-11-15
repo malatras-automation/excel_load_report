@@ -9,7 +9,7 @@ Reads circuit loads from an Excel file and creates an Excel report showing which
 - Writes report_writer.xlsx with totals
 
 # Example output
-[Report](report_screenshot.png)
+[Report](report_screenshot.PNG)
 
 # How to run
 1. Install openpyxl:
